@@ -1,0 +1,6 @@
+host : "localhost",
+    user: "weesolut_riad",
+    password: "Diit54321@#$",
+    database : "weesolut_meldingen",
+    multipleStatements : true,
+    connectionLimit: 100
